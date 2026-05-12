@@ -20,45 +20,88 @@ The main variables you expect to use.
 The file format, such as CSV, NetCDF, shapefile, etc.
 
 **Research Question 1: (Hurricanes)**
+
 Note: Many of these datasets are too big to be downloaded! All links are included for access to datasets.
 
+
 Link: https://www.nhc.noaa.gov/data/#hurdat
+
 Name: Atlantic hurricane database (HURDAT2) 1851-2025
+
 Source: National Hurricane Center - NOAA
+
 Temporal coverage: 1851-2025 
+
 Main variables: Year/Month/Day of report, storm category, numerical category, max. windspeed
+
 File format: .txt
 
+
+
 Link: https://www.ncei.noaa.gov/products/land-based-station/noaa-global-temp 
+
 Name: NOAAGlobalTemp v. 6.1
+
 Source: National Centers for Environmental Information - NOAA
+
 File format: NetCDF (need to find an application that can open these types of files)
 
+
+
 Link: https://www.ncei.noaa.gov/products/land-based-station/noaa-global-temp 
+
 Name: NOAAGlobalTemp v. 6.1 Time Series
+
 Source: National Centers for Environmental Information - NOAA
+
 Main variables: Year or month, anomaly of temperature
+
 File format: NetCDF
 
+
+
 Link: https://www.earthdata.nasa.gov/topics/ocean/sea-surface-temperature/data-access-tools 
+
 Source: NASA Earth Data
+
 Name of Dataset: AIRS/Aqua L2 Near Real Time (NRT) Standard Physical Retrieval (AIRS-only) V006 (AIRS2RET_NRT) at GES DISC
+
 Spatial coverage: N: 90 S: -90 E: 180 W: -180
+
 Temporal coverage: 2016-10-15 to Present
+
+
 
 **Research Question 2: (Pollinators)**
 
+
+
 * Dataset can be accessed via this link - it is too large to be downloaded.
+
 Link: https://www.sciencebase.gov/catalog/item/655ceb8ad34ee4b6e05cc51a 
+
 Name: Annual National Land Cover Database (NLCD) Collection 1 Products (ver. 1.1, June 2025)
+
 Source: USGS
+
 Temporal coverage: 1985-2024
 
+
+
 Link: https://datadryad.org/dataset/doi:10.5061/dryad.ffbg79cwn
+
 Name: A dataset for pollinator diversity and their interactions with plants in the Pacific NorthWest
+
 Source: Dryad
+
 Temporal coverage: 2005-2017
+
 Main variables: pollinator species, day/month/year collected, location description/name, lat/long
+
 File format: csv
+
+
+
+
 
 

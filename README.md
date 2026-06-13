@@ -1,10 +1,5 @@
 # EARTH-211-Project
 
-Angella Ma
-Professor Zhang
-EARTH 211
-12 June 2026
-
 Investigating the Validity of Predicting Atlantic Hurricane Strength with Ocean Surface Temperature
 
 Research question: _Have hurricanes developing in the Atlantic Main Development Region been increasing in intensity over the last 50 years (1975-2024)? How does ocean warming due to climate change and variations in water temperature over time affect the strength of developing hurricanes?_
